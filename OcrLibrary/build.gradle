@@ -50,7 +50,7 @@ publishing {
 
             groupId = 'io.github.hzkitty'
             artifactId = 'rapidocr4j-android'
-            version = '0.0.1'
+            version = '1.0.0'
         }
     }
 

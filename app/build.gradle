@@ -39,5 +39,5 @@ dependencies {
 
     //OcrLibrary
     implementation project(':OcrLibrary')
-//    implementation 'io.github.hzkitty:rapidocr4j-android:0.0.1'
+//    implementation 'io.github.hzkitty:rapidocr4j-android:1.0.0'
 }
