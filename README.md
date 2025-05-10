@@ -1,4 +1,4 @@
-# RapidOcr4j-Android
+# RapidOCR4j-Android
 
 ## 😺 项目介绍
 
@@ -6,8 +6,8 @@
 
 > ✨如果该项目对您有帮助，您的star是我不断优化的动力！！！
 >
-> - [github点击前往](https://github.com/hzkitty/RapidOcr4j-Android)
-> - [gitee点击前往](https://gitee.com/hzkitty/RapidOcr4j-Android)
+> - [github点击前往](https://github.com/hzkitty/RapidOCR4j-Android)
+> - [gitee点击前往](https://gitee.com/hzkitty/RapidOCR4j-Android)
 
 ## 🎉 快速开始
 
