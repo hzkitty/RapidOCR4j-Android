@@ -1,6 +1,6 @@
 plugins {
     id 'com.android.library'
-    id "com.vanniktech.maven.publish" version "0.25.0"
+    id "com.vanniktech.maven.publish" version "0.31.0"
 }
 
 //Maven Central中央库发布配置文件
@@ -14,8 +14,6 @@ android {
 //        applicationId "io.github.hzkitty"
         minSdk 29
         targetSdk 32
-        versionCode 1
-        versionName "1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }

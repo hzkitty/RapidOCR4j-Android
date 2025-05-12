@@ -1,8 +1,7 @@
 
-
 mavenPublishing {
     // publishing to https://central.sonatype.com/
-    publishToMavenCentral(SonatypeHost.CENTRAL_PORTAL, true)
+    publishToMavenCentral("CENTRAL_PORTAL")
 
     signAllPublications()
 
