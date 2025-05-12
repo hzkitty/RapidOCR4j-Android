@@ -1,0 +1,36 @@
+
+
+mavenPublishing {
+    // publishing to https://central.sonatype.com/
+    publishToMavenCentral(SonatypeHost.CENTRAL_PORTAL, true)
+
+    signAllPublications()
+
+    coordinates("io.github.hzkitty", "rapidocr4j-android", "1.0.0")
+
+    pom {
+        name = "RapidOcr4j-Android"
+        description = "A description of what my library does."
+        inceptionYear = "2025"
+        url = "https://github.com/hzkitty/RapidOcr4j-Android"
+        licenses {
+            license {
+                name = "The Apache License, Version 2.0"
+                url = "http://www.apache.org/licenses/LICENSE-2.0.txt"
+                distribution = "http://www.apache.org/licenses/LICENSE-2.0.txt"
+            }
+        }
+        developers {
+            developer {
+                id = "hzkitty"
+                name = "hzkitty"
+                email = "1758225523@qq.com"
+            }
+        }
+        scm {
+            url = "https://github.com/hzkitty/RapidOcr4j-Android/"
+            connection = "scm:git:git://github.com/hzkitty/RapidOcr4j-Android.git"
+            developerConnection = "scm:git:ssh://git@github.com/hzkitty/RapidOcr4j-Android.git"
+        }
+    }
+}
